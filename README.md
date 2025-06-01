@@ -1,6 +1,6 @@
 # Inteligência-Artificial
 
-Identificação de sentimentos e emoções em textos nas redes sociais
+## Identificação de sentimentos e emoções em textos nas redes sociais
 
 Integrantes:
 
