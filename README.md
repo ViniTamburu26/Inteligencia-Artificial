@@ -1,4 +1,5 @@
 # 🧠 Identificação de sentimentos e emoções em textos nas redes sociais
+**Link Youtube:** https://youtu.be/mxqNiozouvg
 
 # 👥 Integrantes:
 - Julian de Campos Teixeira - 10400765
@@ -32,3 +33,4 @@ A identificação dessas emoções pode apoiar estudos sobre opinião pública, 
 - 🤖 **Modelagem com BERTimbau**: Utilização do modelo BERTimbau pré-treinado com fine-tuning para língua portuguesa para classificação de sentimentos.
 - 📊 **Métricas de avaliação**: Precisão, Recall e F1-Score para avaliação do desempenho por classe.
 - 🧪 **Testes com base anotada**: Base de 200 tweets rotulados manualmente como referência de validação.
+
