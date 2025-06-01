@@ -1,4 +1,4 @@
-# 🧠 Classificação de Emoções e Sentimentos em Tweets com IA
+# 🧠 Identificação de sentimentos e emoções em textos nas redes sociais
 
 # 👥 Integrantes:
 - Julian de Campos Teixeira - 10400765
